@@ -89,7 +89,7 @@
     "bn-IN": {
       "default": {
         "visibleDefaultEngines": [
-         "cliqz", "google-b-m", "bing", "amazondotcom", "rediff", "wikipedia-bn"
+         "cliqz", "google-b-m", "bing", "amazondotcom", "wikipedia-bn"
         ]
       }
     },
@@ -110,7 +110,7 @@
     "ca": {
       "default": {
         "visibleDefaultEngines": [
-         "cliqz", "google-b-m", "twitter", "wikipedia-ca", "diec2"
+         "cliqz", "google-b-m", "twitter", "wikipedia-ca"
         ]
       }
     },
@@ -124,7 +124,7 @@
     "cs": {
       "default": {
         "visibleDefaultEngines": [
-         "cliqz", "google-b-m", "bing", "ddg", "heureka-cz", "mapy-cz", "seznam-cz", "wikipedia-cz"
+         "cliqz", "google-b-m", "bing", "ddg", "wikipedia-cz"
         ]
       }
     },
@@ -159,7 +159,7 @@
     "el": {
       "default": {
         "visibleDefaultEngines": [
-         "cliqz", "google-b-m", "bing", "skroutz", "twitter", "wikipedia-el"
+         "cliqz", "google-b-m", "bing", "twitter", "wikipedia-el"
         ]
       }
     },
@@ -220,7 +220,7 @@
     "es-MX": {
       "default": {
         "visibleDefaultEngines": [
-         "cliqz", "google-b-m", "bing", "amazondotcom", "ddg", "mercadolibre-mx", "twitter", "wikipedia-es"
+         "cliqz", "google-b-m", "bing", "amazondotcom", "ddg", "twitter", "wikipedia-es"
         ]
       },
       "experimental-hidden": {
@@ -239,7 +239,7 @@
     "eu": {
       "default": {
         "visibleDefaultEngines": [
-         "cliqz", "google-b-m", "bing", "elebila", "wikipedia-eu"
+         "cliqz", "google-b-m", "bing", "wikipedia-eu"
         ]
       }
     },
@@ -267,7 +267,7 @@
     "fr": {
       "default": {
         "visibleDefaultEngines": [
-         "cliqz", "google-b-m", "bing", "ddg", "qwant", "twitter", "wikipedia-fr"
+         "cliqz", "google-b-m", "bing", "ddg", "twitter", "wikipedia-fr"
         ]
       }
     },
@@ -286,7 +286,7 @@
     "ga-IE": {
       "default": {
         "visibleDefaultEngines": [
-         "cliqz", "google-b-m", "amazon-co-uk", "tearma", "twitter", "wikipedia-ga-IE"
+         "cliqz", "google-b-m", "amazon-co-uk", "twitter", "wikipedia-ga-IE"
         ]
       }
     },
@@ -501,7 +501,7 @@
     "mr": {
       "default": {
         "visibleDefaultEngines": [
-         "cliqz", "google-b-m", "bing", "amazon-in", "rediff", "wikipedia-mr"
+         "cliqz", "google-b-m", "bing", "amazon-in", "wikipedia-mr"
         ]
       }
     },
@@ -536,7 +536,7 @@
     "nl": {
       "default": {
         "visibleDefaultEngines": [
-         "cliqz", "google-b-m", "bing", "bolcom-nl", "ddg", "twitter", "wikipedia-nl"
+         "cliqz", "google-b-m", "bing", "ddg", "twitter", "wikipedia-nl"
         ]
       },
       "experimental-hidden": {
@@ -548,7 +548,7 @@
     "nn-NO": {
       "default": {
         "visibleDefaultEngines": [
-         "cliqz", "google-b-m", "ddg", "gulesider-mobile-NO", "twitter", "wikipedia-NN"
+         "cliqz", "google-b-m", "ddg", "twitter", "wikipedia-NN"
         ]
       }
     },
@@ -602,7 +602,7 @@
     "rm": {
       "default": {
         "visibleDefaultEngines": [
-         "cliqz", "google-b-m", "bing", "ddg", "leo_ende_de", "pledarigrond", "wikipedia-rm"
+         "cliqz", "google-b-m", "bing", "ddg", "wikipedia-rm"
         ]
       }
     },
@@ -635,14 +635,14 @@
     "sk": {
       "default": {
         "visibleDefaultEngines": [
-         "cliqz", "google-b-m", "azet-sk", "slovnik-sk", "twitter", "wikipedia-sk"
+         "cliqz", "google-b-m", "twitter", "wikipedia-sk"
         ]
       }
     },
     "sl": {
       "default": {
         "visibleDefaultEngines": [
-         "cliqz", "google-b-m", "ceneje", "odpiralni", "twitter", "wikipedia-sl"
+         "cliqz", "google-b-m", "twitter", "wikipedia-sl"
         ]
       }
     },
@@ -670,7 +670,7 @@
     "sv-SE": {
       "default": {
         "visibleDefaultEngines": [
-         "cliqz", "google-b-m", "prisjakt-sv-SE", "twitter", "wikipedia-sv-SE"
+         "cliqz", "google-b-m", "twitter", "wikipedia-sv-SE"
         ]
       }
     },
@@ -746,7 +746,7 @@
     "vi": {
       "default": {
         "visibleDefaultEngines": [
-         "cliqz", "google-b-m", "coccoc", "ddg", "twitter", "wikipedia-vi"
+         "cliqz", "google-b-m", "ddg", "twitter", "wikipedia-vi"
         ]
       }
     },
