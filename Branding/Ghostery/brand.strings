@@ -6,10 +6,10 @@
   Copyright © 2019 Cliqz. All rights reserved.
 */
 
-"website" = "https://www.ghostery.com/";
-"whatsNewWebsite" = "https://github.com/ghostery/user-agent-ios/releases";
-"humanWebInfoWebsite" = "https://www.ghostery.com/faqs/human-web-data-collected/";
-"repositoryWebsite" = "https://github.com/ghostery/user-agent-ios";
-"privacyPolicyWebsite" = "https://www.ghostery.com/about-ghostery/mobile-browser-privacy-policy/";
-"feedbackWebsite" = "https://www.ghostery.com/support";
-"licensesHeader" = "Ghostery";
+"website" = "https://onbibi.com/";
+"whatsNewWebsite" = "https://onbibi.com/news";
+"humanWebInfoWebsite" = "https://onbibi.com/page/contact-us";
+"repositoryWebsite" = "https://onbibi.com/search";
+"privacyPolicyWebsite" = "https://onbibi.com/page/privacy-policy";
+"feedbackWebsite" = "https://onbibi.com/page/contact-us";
+"licensesHeader" = "Onbibi";
