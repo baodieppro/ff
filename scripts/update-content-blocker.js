@@ -4,7 +4,7 @@ const fetch = require('node-fetch');
 (async () => {
   // Ad rules
   const adList = await (await fetch(
-    'https://cdn.cliqz.com/adblocker/configs/safari-ads/allowed-lists.json',
+    'https://cdn.onbibi.com/adblocker/allowed-lists.json',
   )).json();
 
   // Ad Network rules
@@ -25,7 +25,7 @@ const fetch = require('node-fetch');
 
   // Tracking rules
   const trackingList = await (await fetch(
-    'https://cdn.cliqz.com/adblocker/configs/safari-tracking/allowed-lists.json',
+    'https://cdn.onbibi.com/adblocker/allowed-lists.json',
   )).json();
 
   // Tracking Network rules
@@ -40,7 +40,7 @@ const fetch = require('node-fetch');
 
   // Popups rules
   const popupsList = await (await fetch(
-    'https://cdn.cliqz.com/adblocker/configs/safari-cookiemonster/allowed-lists.json',
+    'https://cdn.onbibi.com/adblocker/allowed-lists.json',
   )).json();
 
   // Popup Cosmetic rules
