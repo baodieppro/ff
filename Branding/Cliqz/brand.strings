@@ -5,10 +5,11 @@
   Created by Krzysztof Modras on 10.10.19.
   Copyright © 2019 Cliqz. All rights reserved.
 */
-"website" = "https://cliqz.com/";
-"whatsNewWebsite" = "https://cliqz.com/announcement.html";
-"humanWebInfoWebsite" = "https://0x65.dev/blog/2019-12-03/human-web-collecting-data-in-a-socially-responsible-manner.html";
-"repositoryWebsite" = "https://github.com/cliqz/user-agent-ios";
-"privacyPolicyWebsite" = "https://www.cliqz.com/mobile/privacy-cliqz-for-ios";
-"feedbackWebsite" = "https://cliqz.com/support";
-"licensesHeader" = "Cliqz User Agent for iOS";
+
+"website" = "https://onbibi.com/";
+"whatsNewWebsite" = "https://onbibi.com/news";
+"humanWebInfoWebsite" = "https://onbibi.com/page/contact-us";
+"repositoryWebsite" = "https://onbibi.com/search";
+"privacyPolicyWebsite" = "https://onbibi.com/page/privacy-policy";
+"feedbackWebsite" = "https://onbibi.com/page/contact-us";
+"licensesHeader" = "Onbibi";
