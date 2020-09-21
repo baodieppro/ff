@@ -10,7 +10,7 @@ import Shared
 
 extension Features.Search.AdditionalSearchEngines {
     public static var isEnabled: Bool {
-        return true
+        return false
     }
 }
 
@@ -85,6 +85,6 @@ extension Features.TodayWidget {
 
 extension Features.HumanWeb {
     public static var isEnabled: Bool {
-        return true
+        return false
     }
 }
