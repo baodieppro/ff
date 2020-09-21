@@ -9,7 +9,6 @@
 <Url type="application/x-suggestions+json" method="GET" template="https://www.google.com/complete/search?client=firefox&amp;q={searchTerms}"/>
 <Url type="text/html" method="GET" template="https://onbibi.com/search">
   <Param name="q" value="{searchTerms}"/>
-  <Param name="client" value="firefox-b-1-m"/>
 </Url>
 <SearchForm>https://onbibi.com</SearchForm>
 </SearchPlugin>
