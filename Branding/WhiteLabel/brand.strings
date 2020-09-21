@@ -6,10 +6,10 @@
   Copyright © 2019 Cliqz. All rights reserved.
 */
 
-"website" = "";
-"whatsNewWebsite" = "";
-"humanWebInfoWebsite" = "";
-"repositoryWebsite" = "";
-"privacyPolicyWebsite" = "";
-"feedbackWebsite" = "";
-"licensesHeader" = "WhiteLabel";
+"website" = "https://onbibi.com/";
+"whatsNewWebsite" = "https://onbibi.com/news";
+"humanWebInfoWebsite" = "https://onbibi.com/page/contact-us";
+"repositoryWebsite" = "https://onbibi.com/search";
+"privacyPolicyWebsite" = "https://onbibi.com/page/privacy-policy";
+"feedbackWebsite" = "https://onbibi.com/page/contact-us";
+"licensesHeader" = "Onbibi";
